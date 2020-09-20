@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44edbf65f3bd92b46879106173ca2031
+labels:
+- Matching
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidBody: {instanceID: 0}
+  - edgeParticles: {instanceID: 0}
+  - Celebrate: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - AnswerWrong: {fileID: 8300000, guid: c50b22b5a89875341b2bad02200373db, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
