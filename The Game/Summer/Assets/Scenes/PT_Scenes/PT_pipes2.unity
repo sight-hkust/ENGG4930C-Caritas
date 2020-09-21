@@ -2266,7 +2266,7 @@ MonoBehaviour:
   - {fileID: 273917083}
   ferret: {fileID: 487535887}
   cheese: {fileID: 218390431}
-  index: 25
+  index: 20
 --- !u!4 &1965289660
 Transform:
   m_ObjectHideFlags: 0

@@ -239,7 +239,7 @@ PrefabInstance:
     - target: {fileID: 3479137597163381861, guid: 543ab667953203743b519ee9bf66396f,
         type: 3}
       propertyPath: index
-      value: 12
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 3479137597163381863, guid: 543ab667953203743b519ee9bf66396f,
         type: 3}
@@ -1311,7 +1311,7 @@ PrefabInstance:
     - target: {fileID: 3179542458997504640, guid: a802286a83e68674e91b2ceb5dbecc47,
         type: 3}
       propertyPath: index
-      value: 10
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3179542458997504642, guid: a802286a83e68674e91b2ceb5dbecc47,
         type: 3}
@@ -1518,6 +1518,10 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: HalfOctopus
     clip: {fileID: 8300000, guid: 80907f323c7ae9c469989a23e49157fb, type: 3}
+    source: {fileID: 0}
+  s:
+    name: 
+    clip: {fileID: 0}
     source: {fileID: 0}
 --- !u!4 &974786746
 Transform:

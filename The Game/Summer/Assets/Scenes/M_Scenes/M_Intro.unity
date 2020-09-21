@@ -268,7 +268,6 @@ GameObject:
   - component: {fileID: 1336012094}
   - component: {fileID: 1336012093}
   - component: {fileID: 1336012097}
-  - component: {fileID: 1336012096}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -341,22 +340,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1336012096
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1336012092}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7a676d559f0db848b68008627efa33b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  zPosition: 0
-  changescenebutton2: {fileID: 1410793731877709734, guid: 6e1df955b2393b84184bb936e151ea9b,
-    type: 3}
-  gamestart: {fileID: 32900000, guid: 6dc70b02ac7e2094f8d7c8a2dbfbe15c, type: 3}
 --- !u!328 &1336012097
 VideoPlayer:
   m_ObjectHideFlags: 0
@@ -401,7 +384,7 @@ PrefabInstance:
     - target: {fileID: 1410793731877709732, guid: 6e1df955b2393b84184bb936e151ea9b,
         type: 3}
       propertyPath: index
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1410793731877709734, guid: 6e1df955b2393b84184bb936e151ea9b,
         type: 3}
