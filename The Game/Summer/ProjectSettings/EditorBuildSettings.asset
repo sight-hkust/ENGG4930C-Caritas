@@ -5,70 +5,70 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/G_Menu.unity
     guid: cd08b5be6c04b09468c77adf0008416a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/C_Scenes/C_Coloring1.unity
     guid: 60693cb798de3184dbff0a76f9514b27
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/C_Scenes/C_Coloring2.unity
     guid: 22c5f6e4f513de441b25097345f550b4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/C_Scenes/C_Coloring3.unity
     guid: a0923e94eed95af41b953e5e125a7d35
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/C_Scenes/C_link.unity
     guid: dc33d068353b072409450fb82d3c778f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_Intro.unity
     guid: 7c4c84f4a1915a84c8caf3dcc361579f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_ExplainStory.unity
     guid: 6f32da1d3c1a6da448976f4abac21ada
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_Tutorial1.unity
     guid: c4b276f624beb0948b7d2cdee4009b53
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_Play2.unity
     guid: f696d1f5d86934d45b7953b3f8e53113
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_GettingOntoTheTrain.unity
     guid: 8e3c0422a667a7841b3eecbb20880eeb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_Map.unity
     guid: b6d9375145003004faa8e030b6d85fd6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_Tutorial2.unity
     guid: 76f36452c15ec49698f02acdf6688766
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_Play3.unity
     guid: b590c1777b28cb24892147d8993f1efc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/M_Scenes/M_Play1.unity
     guid: 145e4f0116ea83346b743a05f90b526c
   - enabled: 0
     path: "Assets/Scenes/\uFF2D_level3.unity"
     guid: ae16dd98021794448ad547277221a743
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/S_Scenes/S_SelectCharacters.unity
     guid: 05cf5edad542e324da052f16d629901d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/S_Scenes/S_SupermanFlies.unity
     guid: 18802134db8989942a05cdc7e3cecbba
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/S_Scenes/S_SupermanFlies 1.unity
     guid: 94ee9c4cb6c5d324da19726bc95900cb
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PT_Scenes/PT_pipes2.unity
     guid: 9ebeef31a847a0549a9de0a4ab401ae1
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/PT_Scenes/PT_tracks.unity
     guid: fdcb01920cc603545bfc3f70d4a26500
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PT_Scenes/PT_animation scene.unity
     guid: ed428de56f5014648b793573c290aebc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/S_Scenes/Stats.unity
     guid: 7f3e5148bd68df14e835bfad4a8ebaef
   m_configObjects: {}
