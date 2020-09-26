@@ -415,7 +415,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u586B\u8272"
+  m_Text: "\u586B\u8272 (Coloring)\n"
 --- !u!222 &375421198
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -637,7 +637,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u9023\u63A5\u8DEF\u8ECC\n\n"
+  m_Text: "\u9023\u63A5\u8DEF\u8ECC (Train Tracks)\n\n"
 --- !u!222 &552375470
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1500,7 +1500,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u914D\u5C0D"
+  m_Text: "\u914D\u5C0D (Matching)\n"
 --- !u!222 &1646208475
 CanvasRenderer:
   m_ObjectHideFlags: 0
